@@ -4,22 +4,6 @@ This repo holds the release packages for the MacOS, Windows, and Linux versions 
 
 These desktop platforms are under heavy development right now and contain a minimal feature set. They will be expanded with the full suite of StayFree features (that our users love!) as we continue to develop them.
 
-## Overview
-
-For the initial release:
-* **Application Tracking:** The apps currently track usage of applications on your computer. For example, if you used "Google Chrome" for 2 hours and "Visual Studio Code" for another hour, this is what will be recorded in the app.
-* **Website Tracking:** As of now, website tracking within your browser is not supported. For tracking website usage, please use our browser extensions available [here](https://stayfreeapps.com).
- 
-
-### Notable Features Missing:
-
-* **App Blocking:** The functionality to block apps is not yet implemented but will be included in future updates.
-* **Cross-Platform Integration:** The desktop app currently does not integrate with our cross-platform system. This means it won't display usage data from your phone or browser extensions yet. Integration is planned for future releases.
-* **App Icons:** Custom app icons are not available yet. We will add these as we better understand the usage of this version of StayFree.
-* **Advanced Blocking Features:** Features like Focus Mode will be introduced in upcoming releases.
-* **Enhanced UI:** Future updates will bring more in-depth statistics, comparisons, and enhanced usability to the UI.
-* **Functionality Alignment:** Over time, the desktop app's functionality will closely match that of our browser extensions.
-
 ## Installing the App
 
 ### MacOS
